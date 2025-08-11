@@ -1,0 +1,8 @@
+{
+  "name": "react-native-bridge-mux-monorepo",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ]
+}
